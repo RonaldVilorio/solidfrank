@@ -11,6 +11,7 @@ const fetchUser = async (id) =>{
   
     return (
       <>
+      <p class="text-4xl text-red-400 tracking-widest"></p>
         <input
           type="number"
           min="1"
